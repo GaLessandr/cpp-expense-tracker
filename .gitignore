@@ -1,0 +1,8 @@
+# Compiled binaries
+main
+main.exe
+*.out
+*.o
+
+# Local data files
+*.csv
